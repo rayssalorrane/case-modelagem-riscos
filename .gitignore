@@ -1,0 +1,19 @@
+# RStudio / R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+
+# renv: a biblioteca local não vai para o Git (só o renv.lock)
+renv/library/
+renv/staging/
+renv/local/
+
+# Arquivos temporários do Excel / sistema
+~$*.xlsx
+.DS_Store
+Thumbs.db
+.Rproj.user
+.httr-oauth
+.quarto
