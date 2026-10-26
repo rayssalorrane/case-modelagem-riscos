@@ -64,3 +64,8 @@ As variáveis mais fortes são:
 - **v5/v6 > 0:** 4,8% dos clientes, com 73% de TARGET;
 - **v8:** valores maiores indicam menos risco;
 - **v7:** valores maiores indicam mais risco.
+
+## Documentos
+
+- [Documento técnico (PDF)](docs/Case_Modelagem_de_Riscos.pdf)
+- [Apresentação (PDF)](docs/Apresentacao_Case_Modelagem_de_Riscos.pdf)
